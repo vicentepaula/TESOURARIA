@@ -12,7 +12,7 @@ A aplicação esta disponível para uso no servidor 64.181.170.59 / 10.29.141.60
 vide arquivo requirements.txt
 
 
-## Como funciona.
+##Como funciona.
 O Bot funciona fazendo a leitura dos dados da planilha de movimento dos pdv´s enviada pelas lojas e digitando
 no módulo tesouraria da c5. 
 A planilha tem que estar no formato xlsx na pasta \\10.11.10.3\arcomixfs$\Financeiro\digitacao, daí ele faz uma
@@ -20,8 +20,7 @@ copia do arquivo para uma pasta local do projeto C:\Projetos_Python\TESOURARIA\a
 Uma vez que os arquivos das lojas estejam na pasta digitação, basta executar o ícone Financeiro_digitação na área de trabalho do
 servidor ou acessar o caminho do executável : c:\Projetos_python\TESOURARIA\dist
 
-##
-Desenvolvimento interno TI-Arcomix.
+##Desenvolvimento interno TI-Arcomix.
 
 
 
